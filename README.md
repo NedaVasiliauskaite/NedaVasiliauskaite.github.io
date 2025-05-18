@@ -1,2 +1,2 @@
 # NedaVasiliauskaite.github.io
-mani internetinis viešas turinys
+Mano internetinis viešas turinys
