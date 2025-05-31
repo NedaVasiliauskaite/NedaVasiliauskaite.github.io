@@ -52,7 +52,7 @@
 							<iframe src="https://nedavasiliauskaite.github.io/1_praktinis/map_2.html" width="100%" height="400"></iframe>
 						</li>
 						<li>
-							<h3>3. Kepler.gl – Statybos leidimų animacija (2015–2024)</h3>
+							<h3>3. Kepler.gl – Užregistruoji ivykiai (2023)</h3>
 							<iframe src="https://nedavasiliauskaite.github.io/1_praktinis/map_3.html" width="100%" height="400"></iframe>
 						</li>
 						<li>
