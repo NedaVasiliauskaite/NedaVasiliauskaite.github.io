@@ -1,21 +1,12 @@
-# 🌐 [NedaVasiliauskaite.github.io](https://nedavasiliauskaite.github.io) 
+# 🌐 Neda Vasiliauskaitė – Interaktyvi žemėlapių svetainė
 
-**Mano internetinis viešas turinys**
+Ši svetainė sukurta kaip baigiamoji praktikos užduotis Vilniaus universiteto Kartografijos ir GIS programoje. Svetainėje integruoti:
 
-## 🗺️ Žemėlapiai
+- 🗺️ **1 praktinis darbas**: Kepler.gl žemėlapiai (demografija, infrastruktūra, laiko animacija)
+- 📊 **2 praktinis darbas**: Teminis geoportal.lt žemėlapis (triukšmas + tankis)
+- 📝 **3 praktinis darbas**: ArcGIS Online žemėlapis su gyventojų pasiūlymais
+- 📬 **Kontaktai**: forma ir kūrėjo informacija
 
-- [Žemėlapis 1](1_praktinis/map_1.html) – **3D gyventojų stulpeliai**
-- [Žemėlapis 2](1_praktinis/map_2.html) – **Gyventojai + techniniai objektai**
-- [Žemėlapis 3](1_praktinis/map_3.html) – **Stebėsenos taškai su laiko animacija**
+🧩 Svetainė sukurta naudojant HTML5, CSS3 ir GitHub Pages.
 
-## 📂 Kita
-
-- [Pagrindinis puslapis](index.html)
-- [Teminis žemėlapis iš geoportal.lt](2_praktinis/index.html)
-- [ArcGIS Online žemėlapis](3_praktinis/index.html)
-- [Kontaktų forma](kontaktai.html)
-
----
-
-© 2025 Neda Vasiliauskaitė  
-_Vilniaus universitetas, Kartografija ir GIS_
+👉 [Žiūrėti svetainę gyvai](https://nedavasiliauskaite.github.io/)
