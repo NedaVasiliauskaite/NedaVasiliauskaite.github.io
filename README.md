@@ -1,6 +1,6 @@
 # 🌐 [NedaVasiliauskaite.github.io](https://nedavasiliauskaite.github.io) 
 
-**Mano internetinis viešas turinys – baigiamoji praktika**
+**Mano internetinis viešas turinys**
 
 ## 🗺️ Žemėlapiai
 
